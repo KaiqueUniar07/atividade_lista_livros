@@ -47,7 +47,7 @@ Com ele você pode:
 ###  Clone o repositório
 
 ``` bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/KaiqueUniar07/atividade_lista_livros.git
 cd seu-repositorio
 ```
 
