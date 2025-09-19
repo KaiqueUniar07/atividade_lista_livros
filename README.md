@@ -48,7 +48,7 @@ Com ele você pode:
 
 ``` bash
 git clone https://github.com/KaiqueUniar07/atividade_lista_livros.git
-cd seu-repositorio
+cd -> navegar até a pasta no qual foi clonado o projeto
 ```
 
 ###  Instale as dependências
