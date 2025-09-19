@@ -1,5 +1,7 @@
-RA: 04722-083 Gerônimo Van-Dick Rizzo Bortolozzo 
+RA: 04722-083 Gerônimo Van-Dick Rizzo Bortolozzo
+
 RA: 04722-070 Rafael Rogério Mariano Eduardo 
+
 RA: 04722-039 Kaique Rapatoni Santana
 
 # App de Gerenciamento de Livros (React Native)
